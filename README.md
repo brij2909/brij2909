@@ -18,7 +18,7 @@ I'm Brijesh Parmar, I am student and  passionate about exploring new things. Wel
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=brij2909&show_icons=true&theme=radical)
 
 ## Connect with Me
 
